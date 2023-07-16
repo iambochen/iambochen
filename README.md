@@ -1,5 +1,7 @@
 ### Hi there, I'm Brandon. 👋
 
+I've been a full-stack developer for 4+ years, specializing in Vue.js and Python. I am passionate about building intuitive user interfaces and robust server-side solutions, aiming for high performance and scalability in all my projects.
+
 <!--
 **chenpion/chenpion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
