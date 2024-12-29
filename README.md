@@ -1,7 +1,5 @@
 ### Hi there, I'm Brandon. 👋
 
-I've been a full-stack developer for 4+ years, specializing in Vue.js and Python. I am passionate about building intuitive user interfaces and robust server-side solutions, aiming for high performance and scalability in all my projects.
-
 <!--
 **chenpion/chenpion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -52,7 +50,3 @@ Here are some ideas to get you started:
 
 #### IDEs and Editors
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-#### Others
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
